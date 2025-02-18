@@ -108,7 +108,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn imbalanced-learn
 ### Execute the Script
 
 ```bash
-python fraud_detection.py
+You can find the appropriate notebooks related to each approach in the above commits. Run those notebooks to execute the code
 ```
 
 ---
